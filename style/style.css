@@ -1,0 +1,27 @@
+header {
+  width: 100%;
+  height: 118px;
+  background-color: #FF69B4;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+header .navbar1 {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  color: white;
+}
+header .navbar2 {
+  text-decoration: none;
+  color: white;
+  gap: 50px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 100% vh;
+  height: 100% vh;
+}/*# sourceMappingURL=style.css.map */
